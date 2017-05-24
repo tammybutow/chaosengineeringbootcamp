@@ -31,7 +31,7 @@ You should be in `~/chaos/vagrant_box/` and type:
     vagrant init ubuntu
     vagrant up
 
-Now connect to vagrant box for this chaos engineering bootcamp!
+Now connect to the chaos vagrant box!
 
     vagrant ssh
 
