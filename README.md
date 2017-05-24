@@ -35,4 +35,7 @@ Now connect to the chaos vagrant box!
 
     vagrant ssh
 
+The password you will need to enter is vagrant. 
+All usernames and passwords needed will be vagrant.
+
 Give yourself a hug. 
