@@ -10,7 +10,7 @@ Session Info: https://conferences.oreilly.com/velocity/vl-ca/public/schedule/det
 <p> Level: Beginner</p>
 
 # How to use these materials
-This GitHub repo contains an installation guide for the Chaos Engineering Bootcamp. Please follow this prior to the conference as there are several large files to install. 
+This GitHub repo contains an installation guide for the Chaos Engineering Bootcamp. Please follow this prior to the conference as there are several large files to download and install. 
 
 # Ubuntu Setup
 For this workshop, we will use Vagrant and Virtualbox to run Ubuntu 16.04. The vagrant box comes with a ton of chaos engineering tools already included. It is important to set this up prior to the workshop.
