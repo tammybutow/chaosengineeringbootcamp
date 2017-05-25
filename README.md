@@ -3,11 +3,11 @@ A Chaos Engineering Bootcamp (Workshop) for O'Reilly Velocity 2017
 
 Session Info: https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/58140
 
-<p> Tammy Butow (Dropbox) </p>
-<p> 9:00am–12:30pm Tuesday, June 20, 2017</p>
-<p> Systems Engineering</p>
-<p> Location: LL20 A/B</p>
-<p> Level: Beginner</p>
+Tammy Butow (Dropbox)</br>
+9:00am–12:30pm Tuesday, June 20, 2017 </br>
+Systems Engineering </br>
+Location: LL20 A/B </br>
+Level: Beginner </br>
 
 # How to use these materials
 This GitHub repo contains an installation guide for the Chaos Engineering Bootcamp. Please follow this prior to the conference as there are several large files to download and install. 
