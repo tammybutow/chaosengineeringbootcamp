@@ -27,8 +27,8 @@ Create a new folder called `~/chaos/vagrant_box/` and save the unzip the vagrant
 
 You should be in `~/chaos/vagrant_box/` and type:
 
-    vagrant box add ubuntu package.box
-    vagrant init ubuntu
+    vagrant box add chaos package.box
+    vagrant init chaos
     vagrant up
 
 Now connect to the chaos vagrant box!
