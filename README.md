@@ -38,4 +38,4 @@ Now connect to the chaos vagrant box!
 The password you will need to enter is vagrant. 
 All usernames and passwords needed will be vagrant.
 
-Give yourself a hug. 
+See you at the workshop!
