@@ -20,7 +20,7 @@ It's important that you download the 3 files prior to the conference so you do n
 1. Download and install VirtualBox 5.1.22 for your OS: https://www.virtualbox.org/wiki/Downloads
 2. Download and install Virtualbox 5.1.22 Extensions: http://download.virtualbox.org/virtualbox/5.1.22/Oracle_VM_VirtualBox_Extension_Pack-5.1.22-115126.vbox-extpack
 3. Download and install Vagrant for your OS: https://www.vagrantup.com/downloads.html
-4. Download the vagrant image that we have already pre-built from (this is 2.13GB so it will take a while). This is the link: https://www.dropbox.com/sh/hiwt75pvajrnfjc/AAAEQ6SR6fjA-yxMMclUAswOa?dl=0
+4. Download the vagrant image that we have already pre-built from (this is 2.13GB so it will take a while). This is the link: https://www.dropbox.com/scl/fo/sumoo31pl5evd86trzfo4/AAA86c2bzpzWqYe2znP-Gd4-a?dl=0
 
 # Getting ready to use the Vagrant box
 Create a new folder called `~/chaos/vagrant_box/` and unzip the vagrant box zip file you downloaded in Step 4 above.
