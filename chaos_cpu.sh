@@ -8,8 +8,11 @@ while true;
 done
 EOF
 
-# 32 parallel 100% CPU tasks should hit even the biggest EC2 instances
+#Will cause a ton of chaos! 
 for i in {1..32}
 do
     nohup /bin/bash /tmp/infiniteburn.sh &
 done
+
+#add ability to stop script
+
