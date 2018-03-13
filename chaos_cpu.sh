@@ -14,5 +14,3 @@ do
     nohup /bin/bash /tmp/infiniteburn.sh &
 done
 
-#add ability to stop script
-
