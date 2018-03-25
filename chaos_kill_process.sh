@@ -5,7 +5,7 @@ cat << EOF > /tmp/kill_loop.sh
 #!/bin/bash
 while true;
 do
-    pkill -KILL -f docker
+    pkill -KILL -f kube-apiserver
     sleep 1
 done
 EOF
