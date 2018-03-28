@@ -1,12 +1,7 @@
 # Chaos Engineering Bootcamp
-A Chaos Engineering Bootcamp (Workshop) for O'Reilly Velocity 2017
+A Chaos Engineering Bootcamp (Workshop)
 
-Session Info: https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/58140
-
-Tammy Butow (Dropbox)</br>
-9:00am–12:30pm Tuesday, June 20, 2017 </br>
-Systems Engineering </br>
-Location: LL20 A/B </br>
+Tammy Butow (Gremlin)</br>
 Level: Beginner </br>
 
 # How to use these materials
