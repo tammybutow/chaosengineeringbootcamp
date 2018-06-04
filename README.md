@@ -16,7 +16,8 @@ https://speakerdeck.com/tammybutow/chaos-engineering-bootcamp-srecon-2018
 Chaos Engineering: the history, principles, and practice
 https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/
 
-How to Create a Kubernetes Cluster on Ubuntu 16.04 with kudeadm and Weave Net | Gremlin Community https://www.gremlin.com/community/tutorials/how-to-create-a-kubernetes-cluster-on-ubuntu-16-04-with-kudeadm-and-weave-net/
+How to Create a Kubernetes Cluster on Ubuntu 16.04 with kudeadm and Weave Net | Gremlin Community
+https://www.gremlin.com/community/tutorials/how-to-create-a-kubernetes-cluster-on-ubuntu-16-04-with-kudeadm-and-weave-net/
 
-
-
+SE Radio episode 325: Tammy Butow on Chaos Engineering
+http://www.se-radio.net/2018/05/se-radio-episode-325-tammy-butow-on-chaos-engineering/
